@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO/hud-da-roleta/releases/latest"><b>⬇ Baixar a versão mais recente</b></a>
+  <a href="https://github.com/Shiaze1/hud-da-roleta/releases/latest"><b>⬇ Baixar a versão mais recente</b></a>
   &nbsp;·&nbsp;
   <a href="https://discord.gg/Z7g372ErUt"><b>Comprar a chave no Discord</b></a>
 </p>
@@ -30,7 +30,7 @@ Funciona com roleta europeia (só o zero) e americana (zero e duplo zero), inclu
 
 ## Como baixar e instalar
 
-1. Abra a página de [Releases](https://github.com/SEU-USUARIO/hud-da-roleta/releases/latest) e baixe o arquivo **HUD.da.Roleta.Setup.exe**.
+1. Abra a página de [Releases](https://github.com/shiaze1/hud-da-roleta/releases/latest) e baixe o arquivo **HUD.da.Roleta.Setup.exe**.
 2. Abra o arquivo. Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. O aviso aparece porque o programa é novo e ainda não tem assinatura digital.
 3. Conclua a instalação e abra a HUD pelo atalho na Área de Trabalho.
 
